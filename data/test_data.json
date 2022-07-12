@@ -1,0 +1,57 @@
+{
+  "rule": "All key values must be the same as the test method name",
+  "test_add": [
+    {
+      "attr1": "",
+      "attr2": "",
+      "success": "true",
+      "expect": "200"
+    },
+    {
+      "attr1": "",
+      "attr2": "",
+      "success": "true",
+      "expect": "200"
+    }
+  ],
+  "test_upd": [
+    {
+      "attr1": "",
+      "attr2": "",
+      "success": "true",
+      "expect": "200"
+    },
+    {
+      "attr1": "",
+      "attr2": "",
+      "success": "true",
+      "expect": "200"
+    }
+  ],
+  "test_get": [
+    {
+      "attr1": "",
+      "attr2": "",
+      "success": "true",
+      "expect": 200
+    },
+    {
+      "attr1": "",
+      "attr2": "",
+      "success": "true",
+      "expect": 200
+    }
+  ],
+  "test_del": [
+    {
+      "uid": 1,
+      "success": "true",
+      "expect": "200"
+    },
+    {
+      "uid": 2,
+      "success": "true",
+      "expect": "200"
+    }
+  ]
+}

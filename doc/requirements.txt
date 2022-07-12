@@ -1,0 +1,17 @@
+pytest==7.0.1
+pytest-html==3.1.1
+requests==2.25.1
+###plugins
+allure-pytest-2.9.45
+assume-2.4.3
+base-url-1.4.2
+emoji-0.2.0
+forked-1.4.0
+html-3.1.1
+metadata-1.11.0
+ordering-0.6
+repeat-0.9.1
+rerunfailures-10.2
+sugar-0.9.4
+timeout-2.1.0
+xdist-2.5.0
